@@ -20,7 +20,7 @@ Working
 
 ** Note :- profile photo field is required **
 
-ss1.png
+https://github.com/POONAMJADHAV65/ResumeBuilder/blob/main/ss1.png
 
 
 
