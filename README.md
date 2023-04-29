@@ -20,8 +20,14 @@ Working
 
 ** Note :- profile photo field is required **
 
-https://github.com/POONAMJADHAV65/ResumeBuilder/blob/main/ss1.png
 
+REVIEW OF WEBSITE/OUTPUT SS
+https://github.com/POONAMJADHAV65/ResumeBuilder/blob/main/ss1.png
+https://github.com/POONAMJADHAV65/ResumeBuilder/blob/main/ss2.png
+https://github.com/POONAMJADHAV65/ResumeBuilder/blob/main/ss3.png
+https://github.com/POONAMJADHAV65/ResumeBuilder/blob/main/ss4.png
+https://github.com/POONAMJADHAV65/ResumeBuilder/blob/main/ss5.png
+https://github.com/POONAMJADHAV65/ResumeBuilder/blob/main/ss6.png
 
 
 
