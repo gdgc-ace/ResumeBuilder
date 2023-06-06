@@ -3,7 +3,7 @@
 
 It is a resume generator web app which can build your resume by just simply fill the form of information
 You can also  print it also in pdf format 
-Tech used :- HTML , CSS , JAVASCRIPT ,BOOTSTRAP
+Tech used :- HTML , CSS , JAVASCRIPT ,BOOTSTRAP, TYPESCRIPT.
 
 Working 
 -  Fill the form 
