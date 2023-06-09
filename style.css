@@ -1,0 +1,97 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: rgb(237, 246, 246);
+    font-style: normal;
+}
+
+#cv-form {
+
+    background-image: url(https://images.pexels.com/photos/2879815/pexels-photo-2879815.jpeg?auto=compress&cs=tinysrgb&w=600);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: whitesmoke;
+    font-size: medium;
+    background-color: rgb(85, 113, 221);
+
+}
+
+.container {
+    color: whitesmoke;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+}
+
+.cv {
+    color: rgb(198, 199, 203);
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+#cv-template {
+    display: none;
+
+}
+
+.myimg {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+
+}
+
+.background {
+    background-color: rgb(233, 179, 166);
+}
+
+.left-template {
+    background-color: rgb(104, 148, 225);
+    color: rgb(241, 241, 246);
+}
+
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(2, 2, 108);
+
+}
+
+a {
+    color: rgb(241, 232, 234);
+    text-decoration: none;
+
+}
+
+h1 .nameT {
+    text-transform: capitalize;
+
+}
+
+.card-header {
+    color: rgb(12, 1, 1);
+    padding: 6px !important;
+
+}
+
+/* footer section styling */
+footer {
+    background: rgb(14, 14, 13);
+    padding: 15px 23px;
+    color: #fff;
+    text-align: center;
+}
+
+footer span a {
+    color: rgb(147, 224, 239);
+    text-decoration: none;
+}
+
+footer span a:hover {
+    text-decoration: underline;
+}
