@@ -11,7 +11,7 @@
 
 #cv-form {
 
-    background-image: url(https://images.pexels.com/photos/2879815/pexels-photo-2879815.jpeg?auto=compress&cs=tinysrgb&w=600);
+    /* background-image: url(https://images.pexels.com/photos/2879815/pexels-photo-2879815.jpeg?auto=compress&cs=tinysrgb&w=600); */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -48,7 +48,7 @@
 }
 
 .background {
-    background-color: rgb(233, 179, 166);
+    background-color: rgb(104, 148, 225);
 }
 
 .left-template {
@@ -60,6 +60,9 @@ h3 {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     color: rgb(2, 2, 108);
 
+}
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
 a {
